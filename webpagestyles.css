@@ -1,0 +1,100 @@
+
+.body-one {
+    background-color: lavender;
+}
+.class-one {
+    font-family: 'open sans', sans-serif;
+	position: relative;
+	color: white;
+    text-align: center;
+}
+
+.heading {
+    font-size: 100px;
+    line-height: 0px;
+}
+
+.subheading {
+    font-size: 30px;
+    line-height: 20px;
+}
+
+#pagetitle1 {
+    background-color: white;
+    color: lavender;
+    font-size: 20px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#text1 {
+    color: white;
+    margin-left: 17%;
+    margin-right: 17%;
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.body-two {
+    background-color: lightpink;
+}
+
+.class-two {
+    font-family: 'open sans', sans-serif;
+	position: relative;
+	color: white;
+    text-align: center;
+}
+
+#pagetitle2 {
+    background-color: white;
+    color: lightpink;
+    font-size: 20px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.body-three {
+    background-color: lavenderblush;
+}
+
+.class-three {
+    font-family: 'open sans', sans-serif;
+	position: relative;
+	color: purple;
+    text-align: center
+}
+
+#pagetitle3 {
+    background-color: purple;
+    color:lavenderblush;
+    font-size: 20px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 15px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.text-container {
+    width: 500px;
+    text-align: left;
+}
+
+.image-style{
+	max-height: 500px;
+	max-width: 500px;
+}
+
